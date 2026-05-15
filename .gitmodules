@@ -1,0 +1,3 @@
+[submodule "quickhire"]
+	path = quickhire
+	url = https://github.com/username/quickhire.git
